@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"公众号写作专家：选题到排版一气呵成（选题 / 大纲 / 初稿 / rubric 打分改写 / 合规自查）","name":"lhg-wechat-article","source":"./"}]}
